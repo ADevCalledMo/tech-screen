@@ -1,12 +1,10 @@
-import React, { Component } from 'react';
-import './App.css';
+import React from "react";
+import { Card } from "./components/Card/Card";
 
-export default class App extends Component {
-    render() {
-        return (
-            <div>
-                ClearScore FED test...
-            </div>
-        );
-    }
-}
+import "./App.css";
+
+const App = () => {
+  return <Card />;
+};
+
+export default App;

@@ -1,0 +1,12 @@
+.app__card-container {
+  max-width: 300px;
+  margin: 0 auto;
+  margin-top: 20vh;
+}
+
+.app__card {
+  background-color: white;
+  border: 1px solid #bacdd8;
+  padding: 8px;
+  border-radius: 12px;
+}
