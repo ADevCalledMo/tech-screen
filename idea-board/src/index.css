@@ -3,12 +3,14 @@
 
 */
 
-
-
-body {
-    margin: 0;
-    padding: 0;
-    font-family: sans-serif;
+:root {
+  --card-bg-dark: #687a2a;
+  --card-bg-med: #9ab63e;
+  --card-bg-light: #d8e5b3;
 }
 
-
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
